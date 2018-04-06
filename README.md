@@ -1,12 +1,10 @@
-<script src="http://code.jquery.com/jquery-1.9.1.min.js"></script>
-<script src="http://code.highcharts.com/highcharts.js"></script>
-<script src="./customEvents.js"></script>
+**Note: A snapshot of v1.1.0 of this library that I added a package.json file for npm support. Engage needs this library version for highcharts to work.**   
 
 # Custom events - Highcharts module
 
 Go to project page to see this module in action: [http://blacklabel.github.io/custom_events/](http://blacklabel.github.io/custom_events/)
 
-
+```
 <div id="chart" style="height: 500px"></div>
 <h2>Events</h2>
 <div id="report"></div>
@@ -171,6 +169,7 @@ window.chart = new Highcharts.Chart({
 
         });
 </script>
+```
 
 ### Requirements
 

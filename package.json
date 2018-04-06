@@ -1,0 +1,19 @@
+{
+  "name": "highcharts-custom-events",
+  "version": "1.1.0",
+  "description": "``` <script src=\"http://code.jquery.com/jquery-1.9.1.min.js\"></script> <script src=\"http://code.highcharts.com/highcharts.js\"></script> <script src=\"./customEvents.js\"></script> ```",
+  "main": "customEvents.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AudaxHealthInc/highcharts-custom-events.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AudaxHealthInc/highcharts-custom-events/issues"
+  },
+  "homepage": "https://github.com/AudaxHealthInc/highcharts-custom-events#readme"
+}
